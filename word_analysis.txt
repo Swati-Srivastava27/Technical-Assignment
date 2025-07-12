@@ -1,0 +1,1 @@
+No words were repeated more than twice across headers.

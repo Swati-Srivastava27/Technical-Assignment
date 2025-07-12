@@ -1,0 +1,78 @@
+✨ El País Opinion Article Scraper Results
+
+
+
+📰 Article 1
+📌 Title: A menos Schengen, menos Europa
+
+📄 Content:
+Desde el pasado lunes, Polonia inspecciona a los viajeros que llegan por tierra desde las vecinas Lituania y Alemania. Se trata de un preocupante paso atrás en uno de los grandes logros en el proceso de integración europea como es el Tratado de Schengen.
+El Gobierno de Varsovia cede así a la presión de su ultraderecha, que ha llegado a organizar tenebrosas “patrullas” en las zonas fronterizas y que, siguiendo la estela de las demás formaciones ultras continentales, identifica inmigración con delincuencia. Lamentablemente, Polonia ya tenía el ejemplo al otro lado de la frontera. La propia Alemania estableció controles de este tipo en septiembre del año pasado, medida que adoptó en pleno auge de la ultraderechista Alternativa para Alemania (AfD) en los sondeos.
+Hace 40 años, en junio de 1985, se firmó el acuerdo de Schengen, fundamental por su ambición, popularidad y eficacia. Cubriendo un área de 4,6 millones de kilómetros cuadrados en la que viven más de 450 millones de personas, ha facilitado el contacto, el turismo y el comercio entre los 29 países asociados —de los que 25 son de la UE— y en algunas zonas fronterizas ha supuesto una verdadera revolución, desmantelando barreras que cortaban pueblos y vidas en dos.
+Sin embargo, desde hace más de una década los Estados miembros del acuerdo han ido reintroduciendo paulatinamente controles que minan el espíritu del tratado. Lo que fue acordado por los ministros de Interior de la zona Schengen en 2012 como una respuesta de emergencia al éxodo provocado por las guerras civiles en Siria y Libia se ha aplicado cada vez más como respuesta a atentados terroristas y ante cualquier amago de crisis migratoria. A esto hay que sumarle la creciente reticencia de países que ya forman parte del espacio Schengen a dar la bienvenida a nuevos socios por temor a mayores flujos migratorios. Por ejemplo, cuando a principios de este año Rumania y Bulgaria se incorporaron a Schengen como miembros de pleno derecho, lo hicieron 20 años después de la firma de su adhesión a la UE, en gran medida por el veto de Austria, que les obligó a pasar por una vergonzosa “fase transicional”. Aun así, los rumanos y búlgaros que se asomaron por los pasos fronterizos en enero mostraban su satisfacción por sentirse europeos de pleno derecho.
+Una prueba de que Schengen sigue siendo una aspiración para los Estados más allá de la movilidad de sus ciudadanos, está en el empeño de Chipre —el único país de la UE pendiente de entrar junto a la República de Irlanda— en integrarse en la zona de libre circulación lo antes posible.
+Es evidente que los países de la Unión Europea tienen derecho de regular quién entra y quién pasa por su territorio. Pero los mecanismos aprobados en Schengen están para facilitar, y no para dificultar esa tarea. Cooperación entre autoridades policiales, euroórdenes, política común de visados, entre otros muchos, son procedimientos que hacen de la UE más segura y no al revés.
+Lo más preocupante de lo que está sucediendo es que los controles se establecen no en respuesta a amenazas reales, sino como medida populista destinada a enviar a un potencial electorado el mensaje dureza en materia de orden público. Es un error, porque los gobiernos que adoptan esta senda no hacen sino secundar a una ultraderecha que relaciona la libre circulación con la delincuencia, y que ataca de forma muy grave al concepto de integración europea ante la ciudadanía.
+
+🖼️ Image Path: c:\Users\SWATI\my_python_projects\spanish_Article\elpais_images\article_1.jpg
+
+================================================================================
+
+
+📰 Article 2
+📌 Title: En interés de los menores
+
+📄 Content:
+Los jueces españoles mantienen el régimen de visitas a padres denunciados por violencia machista en 8 de cada 10 casos. El estudio de la Asociación de Mujeres Juristas Themis que revela el dato —basado en sentencias de todas las instancias judiciales dictadas durante 2022 y 2023— recoge también que nueve de cada 10 resoluciones mantienen la patria potestad del agresor, y al 9,6% se le concede incluso la custodia exclusiva. Si a estos datos se añade que el Ministerio de Interior tenía identificados en mayo a más de 1.400 menores en riesgo de violencia vicaria —132 en riesgo alto de ser agredidos—, la situación es socialmente insoportable.
+Los ministerios de Interior e Igualdad se han organizado para afrontar el aumento de sucesos de violencia de género que se produce con las vacaciones de verano. Y los hijos menores de las mujeres maltratadas son también víctimas de esta violencia. Así lo recoge la Ley 8/2021 de protección integral de la infancia. En esta se dice expresamente que no procederá el régimen de visitas —y si existiera, se suspenderá— para el progenitor “incurso en un proceso penal iniciado” por violencia de género o sexual contra el otro cónyuge o sus hijos, ni tampoco cuando el juez advierta “indicios fundados de violencia doméstica o de género”. En caso de mantener las visitas, debe ser por el bien del menor, y siempre en una resolución judicial motivada.
+La realidad, como revela el estudio, es que esta excepción legal es, sin embargo, la norma judicial. El interés del menor es un bien jurídico superior para nuestro ordenamiento: el favor filii (el beneficio del hijo) es un principio universal del derecho de familia, y prevalece sobre los derechos de los progenitores, que incluyen la crianza y la compañía de los hijos. La presunción de inocencia del supuesto agresor es un principio fundamental, pero su observancia no puede implicar que se asuma un riesgo sobre la integridad de los hijos. No se trata de aplicar un castigo preventivo, sino de atender al interés superior del menor, un principio consagrado en la Constitución y en el derecho internacional.
+El derecho civil es tradicionalmente reacio a regular demasiado los asuntos de familia, y deja en manos de los jueces resolver muchas situaciones atendiendo a la casuística. Y también ha sido un bastión del patriarcado. Por ejemplo, hasta la reforma del Código Civil de 1981, el ejercicio de la potestad era solo del padre, que podía incluso dar en adopción a los hijos sin el consentimiento de la madre (solo ejercía la patria potestad de manera subsidiaria, si faltaba el padre).
+Mucho han cambiado las leyes desde entonces. La sociedad española ha dado pasos agigantados y los legisladores han estado a su altura. Sin embargo, las cifras revelan que el poder judicial tiene todavía mucho por avanzar. No hacerlo pone en riesgo la integridad física y mental de los menores. Un coste inasumible.
+
+🖼️ Image Path: c:\Users\SWATI\my_python_projects\spanish_Article\elpais_images\article_2.jpg
+
+================================================================================
+
+
+📰 Article 3
+📌 Title: Singularidad
+
+📄 Content:
+Creo que no es agradable besarle los pies a alguien. Pero la reverencia al poder busca todo tipo de materialidades con que manifestar adhesión, y encontró hace siglos que el beso postrado ante el trono (los labios sobre el manto o sobre los pies) era un evidente signo de sumisión y obediencia. Así se practicó en los salones palaciegos. En su mención figurada, el acto se convirtió en una fórmula con que evocar cortesía y respeto, por eso, en la despedida de las cartas antiguas aparecía a menudo un “que sus pies besa” que se hermanaba a veces con el menos servil “que sus manos besa”, un gesto no solo dicho sino también practicado en los encuentros cara a cara.
+
+🖼️ Image Path: c:\Users\SWATI\my_python_projects\spanish_Article\elpais_images\article_3.jpg
+
+================================================================================
+
+
+📰 Article 4
+📌 Title: El mar ya no es eterno
+
+📄 Content:
+Nada más llegar al hotel, y antes siquiera de bajar a la playa, ya lo gana a uno la sensación acogedora de la intemporalidad. Atrás, en Madrid, en las salidas congestionadas de las autopistas, en el tono crispado de informativos y tertulias, queda toda la tensión del presente, que agobia tanto como el calor excesivo y el tráfico sin mengua del comienzo de julio. Llegar aquí es instalarse en otro tiempo, casi en otra época, y no solo porque el hotel se conserve más o menos como se construyó, hacia finales de los años 1920, o porque en el paseo marítimo, alternando con esbeltas torres de apartamentos de un modernismo de alta calidad de los años sesenta, se conserven villas de veraneo de princi...
+
+🖼️ Image Path: c:\Users\SWATI\my_python_projects\spanish_Article\elpais_images\article_4.jpg
+
+================================================================================
+
+
+📰 Article 5
+📌 Title: Tiempos muertos
+
+📄 Content:
+Cobrando el pasaje en Chimalhuacán (México).
+SONIA MADRIGAL
+Payaso urbano de Neza (México).
+SONIA MADRIGAL
+Chófer de Xochimilco (México).
+SONIA MADRIGAL
+El vagón de mujeres de la Línea Rosa del metro de la Ciudad de México.
+SONIA MADRIGAL
+Pachuco en la estación de metro Pantitlán (Ciudad de México).
+SONIA MADRIGAL
+La vírgen de Neón de Ciudad Neza (México).
+SONIA MADRIGAL
+
+🖼️ Image Path: c:\Users\SWATI\my_python_projects\spanish_Article\elpais_images\article_5.jpg
+
+================================================================================

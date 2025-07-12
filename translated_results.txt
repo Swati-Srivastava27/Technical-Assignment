@@ -1,0 +1,73 @@
+🌍 Translated El País Articles (English)
+
+📰 Article 1
+📌 Title: Less Schengen, less Europe
+
+📄 Content:
+Since last Monday, Poland inspects travelers who arrive by land from neighboring Lithuania and Germany. It is a worrying step back in one of the great achievements in the European integration process such as Schengen's treaty.
+The Warsaw Government thus yields to the pressure of its extreme right, which has come to organize dark "patrols" in border areas and that, following the wake of the other continental ultras formations, identifies immigration with crime. Unfortunately, Poland already had the example on the other side of the border. Germany herself established controls of this type in September of last year, an alternative ultra -right -wing of the Ultra -rightist for Germany (AFD) in the polls.
+40 years ago, in June 1985, the Schengen agreement was signed, fundamental for its ambition, popularity and efficacy. Covering an area of 4.6 million square kilometers in which more than 450 million people live, has facilitated contact, tourism and trade between the 29 associated countries - of which 25 are from the EU - and in some border areas it has meant a true revolution, dismantling barriers that cut peoples and lives in two.
+However, for more than a decade the member states of the agreement have gradually reintroduce controls that undermine the spirit of the treaty. What was agreed by the Interior Ministers of the Schengen zone in 2012 as an emergency response to the exodus caused by civil wars in Syria and Libya has been increasingly applied as a response to terrorist attacks and before any threat of migration crisis. To this we must add the growing reluctance of countries that are already part of the Schengen space to welcome new partners for fear of greater migratory flows. For example, when at the beginning of this year Romania and Bulgaria joined Schengen as full members, they did it 20 years after the signing of their adhesion to the EU, largely by the veto of Austria, which forced them to go through a shameful "transitional phase." Even so, the Romanians and Bulgarians who peeked through the border crossings in January showed their satisfaction for feeling full Europeans.
+A proof that Schengen remains an aspiration for the states beyond the mobility of its citizens, is in Cyprus's effort - the only EU country pending to enter with the Republic of Ireland - to integrate into the area of free circulation as soon as possible.
+It is evident that the countries of the European Union have the right to regulate who enters and who passes through their territory. But the mechanisms approved in Schengen are to facilitate, and not to hinder that task. Cooperation between police authorities, Euroorders, common visa policy, among many others, are procedures that make the EU safer and not vice versa.
+The most worrying thing about what is happening is that the controls are established not in response to real threats, but as a populist measure aimed at sending to an electoral potential the message hard in public order. It is a mistake, because the governments that adopt this path only secondary to an ultra -right that relates free circulation with crime, and that attacks very seriously to the concept of European integration to citizens.
+
+🖼️ Image path: c: \ users \ swati \ my_python_projects \ spanish_article \ scraper_result \ elpais_images \ article_1.jpg
+
+================================================================================
+
+📰 Article 2
+📌 Title: In the interest of minors
+
+📄 Content:
+The Spanish judges maintain the regime of visits to parents denounced for sexist violence in 8 out of 10 cases. The study of the Thanmis Jurists Association that reveals the data - based on sentences of all judicial instances issued during 2022 and 2023 - also collects that nine out of 10 resolutions maintain the parental authority of the aggressor, and at 9.6% they are even granted exclusive custody. If this data is added that the Ministry of Interior had identified in May more than 1,400 minors at risk of vicaria violence - 132 at risk of being attacked - the situation is socially unbearable.
+Interior and equality ministries have been organized to face the increase in gender violence events that occur with summer vacations. And the minor children of mistreated women are also victims of this violence. This is included in Law 8/2021 on Integral Protection of Childhood. This is expressly said that the visits regime will not proceed - and if it existed, will be suspended - for the parent "incident in a criminal process initiated" due to gender or sexual violence against the other spouse or their children, nor when the judge notes "founded indications of domestic or gender violence." In case of keeping the visits, it must be for the good of the minor, and always in a motivated judicial resolution.
+The reality, as the study reveals, is that this legal exception is, however, the judicial norm. The interest of the minor is a higher legal good for our system: Filii favor (the benefit of the child) is a universal principle of family law, and prevails over the rights of parents, which include parenting and the company of children. The presumption of innocence of the alleged aggressor is a fundamental principle, but its observance cannot imply that a risk of children's integrity is assumed. It is not about applying preventive punishment, but to meet the best interests of the minor, a principle enshrined in the Constitution and international law.
+Civil law is traditionally reluctant to regulate family affairs too much, and leaves in the hands of the judges to solve many situations according to the casuistry. And it has also been a bastion of patriarchy. For example, until the reform of the Civil Code of 1981, the exercise of the power was only from the father, who could even give the children for adoption without the mother's consent (only the parental authority fought in a subsidiary way, if the father was missing).
+The laws have changed a lot since then. Spanish society has taken leaps and legislators have been up to it. However, the figures reveal that the Judiciary still has much to advance. Not doing so puts the physical and mental integrity of minors at risk. An unassumable cost.
+
+🖼️ Image path: c: \ users \ swati \ my_python_projects \ spanish_article \ scraper_result \ elpais_images \ article_2.jpg
+
+================================================================================
+
+📰 Article 3
+📌 Title: Singularity
+
+📄 Content:
+I think it's not pleasant to kiss someone's feet. But the reverence to power seeks all kinds of materialities with which to manifest adhesion, and found centuries ago that the prostrated kiss before the throne (the lips on the mantle or on the feet) was an obvious sign of submission and obedience. This was practiced in the palatial halls. In his figurative mention, the act became a formula with which to evoke courtesy and respect, for that, in the farewell of the ancient letters often appeared a “that his feet kisses” that sometimes twin with the least servile “that his hands kisses”, a gesture not only said but also practiced in the face to face.
+
+🖼️ Image path: c: \ users \ swati \ my_python_projects \ spanish_article \ scraper_result \ elpais_images \ article_3.jpg
+
+================================================================================
+
+📰 Article 4
+📌 Title: The sea is no longer eternal
+
+📄 Content:
+As soon as he arrives at the hotel, and before even going down to the beach, he already wins the welcoming sensation of timelessness. Behind, in Madrid, in the congested exits of the highways, in the tone crushed of news and gatherings, there is all the tension of the present, which overwhelms as much as excessive heat and traffic without waning of the beginning of July. Arriving here is to settle in another time, almost in another era, and not only because the hotel is more or less preserved as it was built, towards the end of the 1920s, or because in the promenade, alternating with slender torres of apartments of a high quality modernism of the sixties, they are preserved venic villas of Principles ...
+
+🖼️ Image path: c: \ users \ swati \ my_python_projects \ spanish_article \ scraper_result \ elpais_images \ article_4.jpg
+
+================================================================================
+
+📰 Article 5
+📌 Title: Dead times
+
+📄 Content:
+Charging the passage in Chimalhuacán (Mexico).
+Sonia Madrigal
+Urban clown of Neza (Mexico).
+Sonia Madrigal
+Xochimilco driver (Mexico).
+Sonia Madrigal
+The Women of the Pink Metro Line of Mexico City.
+Sonia Madrigal
+Pachuco at the Pantitlán Metro station (Mexico City).
+Sonia Madrigal
+The virgin of Neon from Ciudad Neza (Mexico).
+Sonia Madrigal
+
+🖼️ Image path: c: \ users \ swati \ my_python_projects \ spanish_article \ scraper_result \ elpais_images \ article_5.jpg
+
+================================================================================
+
